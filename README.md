@@ -1,0 +1,10 @@
+## INSTALAMOS LAS DEPENDENCIAS
+
+npm install
+
+## DATOS A REEMPLAZAR
+
+EN EL ARCHIVO CLIENT.JS REEMPLAZAR POR EL USUARIO CREADO EN NEST.JS
+
+const username = 'axzelcc';
+const password = '123';
